@@ -5,34 +5,34 @@ Curated collection of 15 high-quality agent skills from the open ecosystem, cons
 ## Install All
 
 ```bash
-npx skills add https://github.com/int-root/agent-skills --all -g
+npx skills add https://github.com/adtstack/agent-skills --all -g
 ```
 
 ## Install Individual Skills
 
 ```bash
 # From obra/superpowers - agent workflow skills
-npx skills add https://github.com/int-root/agent-skills --skill brainstorming -g
-npx skills add https://github.com/int-root/agent-skills --skill systematic-debugging -g
-npx skills add https://github.com/int-root/agent-skills --skill writing-plans -g
-npx skills add https://github.com/int-root/agent-skills --skill requesting-code-review -g
-npx skills add https://github.com/int-root/agent-skills --skill test-driven-development -g
-npx skills add https://github.com/int-root/agent-skills --skill finishing-a-development-branch -g
-npx skills add https://github.com/int-root/agent-skills --skill using-git-worktrees -g
-npx skills add https://github.com/int-root/agent-skills --skill dispatching-parallel-agents -g
-npx skills add https://github.com/int-root/agent-skills --skill writing-skills -g
-npx skills add https://github.com/int-root/agent-skills --skill subagent-driven-development -g
-npx skills add https://github.com/int-root/agent-skills --skill executing-plans -g
+npx skills add https://github.com/adtstack/agent-skills --skill brainstorming -g
+npx skills add https://github.com/adtstack/agent-skills --skill systematic-debugging -g
+npx skills add https://github.com/adtstack/agent-skills --skill writing-plans -g
+npx skills add https://github.com/adtstack/agent-skills --skill requesting-code-review -g
+npx skills add https://github.com/adtstack/agent-skills --skill test-driven-development -g
+npx skills add https://github.com/adtstack/agent-skills --skill finishing-a-development-branch -g
+npx skills add https://github.com/adtstack/agent-skills --skill using-git-worktrees -g
+npx skills add https://github.com/adtstack/agent-skills --skill dispatching-parallel-agents -g
+npx skills add https://github.com/adtstack/agent-skills --skill writing-skills -g
+npx skills add https://github.com/adtstack/agent-skills --skill subagent-driven-development -g
+npx skills add https://github.com/adtstack/agent-skills --skill executing-plans -g
 
 # From vercel-labs/skills - skill discovery
-npx skills add https://github.com/int-root/agent-skills --skill find-skills -g
+npx skills add https://github.com/adtstack/agent-skills --skill find-skills -g
 
 # From vercel-labs/agent-skills - web design & React
-npx skills add https://github.com/int-root/agent-skills --skill web-design-guidelines -g
-npx skills add https://github.com/int-root/agent-skills --skill vercel-react-best-practices -g
+npx skills add https://github.com/adtstack/agent-skills --skill web-design-guidelines -g
+npx skills add https://github.com/adtstack/agent-skills --skill vercel-react-best-practices -g
 
 # From anthropics/skills - skill authoring
-npx skills add https://github.com/int-root/agent-skills --skill skill-creator -g
+npx skills add https://github.com/adtstack/agent-skills --skill skill-creator -g
 ```
 
 ## Skills Overview
